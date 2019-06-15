@@ -5,7 +5,7 @@ Nucleic Acids Research Data Discovery
 This is an exploratory project interested in using an archive of papers from a major biology research database (NAR)
 as well as the Natural Language Processing model of `Doc2Vec` to identify trends, topics, and similarities in publications
 over time. We are hopeful that this analysis could generate interesting conclusions about the direction the field of 
-Biology is headed, and that several novel visuzalizations may be produced.
+Biology is headed, and that several novel visualizations may be produced.
 
 ## Notebooks
 Below you will find a list of notebooks that serve as the building blocks of this project. 
