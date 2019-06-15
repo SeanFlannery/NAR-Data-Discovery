@@ -49,3 +49,7 @@ even when accounting for all 3 features). These features are used to represent i
 and 3D space in Part 6.
 - `xmeans_cluster`: cluster assignment based on the XMeans algorithm
 - `kmeans_cluster`: cluster assignment based on the KMeans algorithm
+
+![3D XMeans Clustering Plot](3D_XMeans_Plot.png)
+
+Interact with Current 3D Vizualization [Here](https://plot.ly/create/?fid=SeanFlannery:16#/)
