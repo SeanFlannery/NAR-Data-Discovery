@@ -1,6 +1,10 @@
 # NAR-Data-Discovery
 Nucleic Acids Research Data Discovery
 
+Note: This Project has continued in a new form in another repository, known as NARTA (https://github.com/SeanFlannery/NARTA). 
+
+The work presented here was a preliminary foray to see if this would be a feasible project.
+
 ## Purpose
 This is an exploratory project interested in using an archive of papers from a major biology research database (NAR)
 as well as the Natural Language Processing model of `Doc2Vec` to identify trends, topics, and similarities in publications
